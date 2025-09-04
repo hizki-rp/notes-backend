@@ -36,7 +36,7 @@ ALLOWED_HOSTS = ["*"]
 
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:5173",
+    "http://localhost:5173", "https://notes-frontend-pink.vercel.app/",
     
     # Add other front-end URLs here, e.g., "https://your-live-react-app.com"
 ]
